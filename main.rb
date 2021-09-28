@@ -42,5 +42,4 @@ def decode(morse_code)
     return words.join(" ")
 end
 
-# A BOX FULL OF RUBIES
 puts(decode(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ..."))
