@@ -32,8 +32,8 @@ def decode_char(letter_code)
 end
 
 def decode_word(word_code)
-  letters = word_code.split(' ').map { |letter_code| decode_char(letter_code) }
-  letters.join()
+  letters = word_code.split.map { |letter_code| decode_char(letter_code) }
+  letters.join
 end
 
 def decode(morse_code)
