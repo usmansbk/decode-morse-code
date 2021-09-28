@@ -36,9 +36,9 @@ irb main.rb
 
 👤 **Tolib**
 
-- GitHub: [@usmansbk](https://github.com/toliboff)
-- Twitter: [@usmansbk](https://twitter.com/toliboff)
-- LinkedIn: [Usman Suleiman Babakolo](https://linkedin.com/in/toliboff)
+- GitHub: [@toliboff](https://github.com/toliboff)
+- Twitter: [@toliboff](https://twitter.com/toliboff)
+- LinkedIn: [Tolibjon Tolibov](https://linkedin.com/in/toliboff)
 
 ## 🤝 Contributing
 
